@@ -1,0 +1,7 @@
+[theme]
+base="light"  # Tema claro
+primaryColor="#0078D4"  # Cor primária (exemplo: azul)
+backgroundColor="#FFFFFF"  # Cor de fundo (branco)
+secondaryBackgroundColor="#F1F1F1"  # Cor de fundo secundária (cinza claro)
+textColor="#000000"  # Cor do texto (preto)
+font="sans serif"  # Tipo de fonte
