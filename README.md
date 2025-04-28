@@ -8,7 +8,7 @@ O **Projeto A3** foi desenvolvido como parte de uma atividade acadêmica, onde a
 
 ## 🛠️ Funcionalidade Desenvolvida
 
-Nossa tarefa consistiu em:
+Minha tarefa consistiu em:
 
 - **Validação de Campos**: Garantir que os dados inseridos pelos usuários estivessem corretos, como a validação de e-mail e senha (campo numérico de 6 dígitos).  
 - **Interface de Cadastro**: Criar o front-end para o cadastro de usuários, utilizando a biblioteca **Streamlit** para construir uma interface simples e eficiente.
